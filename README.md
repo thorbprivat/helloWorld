@@ -1,5 +1,5 @@
 helloWorld
 ==========
 
-myFirst
+my first day at github
 
